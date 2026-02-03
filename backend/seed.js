@@ -43,7 +43,7 @@ const seedData = async () => {
         description:
           "Learn the fundamentals of React including components, props, state, and hooks. Build your first React application from scratch.",
         price: 49.99,
-        image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800",
+        image: "https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cmVhY3Rqc3xlbnwwfHwwfHx8MA%3D%3D",
       },
       {
         title: "Advanced JavaScript",
